@@ -1,0 +1,5 @@
+Mal uso del archivo .gitignore
+El archivo Buclefor.cpp está vacío.
+El ejercicio variastablas no está solucionado correctamente.
+
+Calificación: 2.0/3.0
